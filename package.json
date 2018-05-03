@@ -1,0 +1,19 @@
+{
+  "name": "fresco-play",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.2.0",
+    "react": "^16.3.2",
+    "version": "^0.1.2"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nishant.na.agnihotri",
+  "license": "ISC"
+}
